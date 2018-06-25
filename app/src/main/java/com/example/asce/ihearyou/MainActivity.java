@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
             else
             {
                 Log.i(classname,"sorry");
-
+                String x;
             }
             }
 
