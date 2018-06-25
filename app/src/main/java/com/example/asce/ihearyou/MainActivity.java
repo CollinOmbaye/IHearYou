@@ -40,10 +40,7 @@ public class MainActivity extends AppCompatActivity {
             }
             else
             {
-
-                String x;
-                x= "sorry";
-                Log.i(classname,x);
+                int x;
             }
             }
 
